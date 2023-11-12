@@ -6,6 +6,9 @@ Limpiar y corregir el OCR del *Melopeo* para liberar el texto en formato digital
 Esta es la primera versión, producida tras aplicar OCR a un facsímil en PDF, sin ningún retoque. 
 
 ## 22 libros en 22 archivos de texto
+
+> El melopeo y maestro: tractado de música theorica y pratica; en que se pone por extenso; lo que uno para hazerse perfecto musico ha menester saber; y por mayor facilidad, comodidad, y claridad del Lector, esta repartido en XXII Libros
+
 Cada uno de los veintidós libros en que se divide la obra de Cerone aparece aquí en un archivo de texto separado para facilitar el trabajo. Los [veintidós archivos PDF correspondientes están en IMSLP](https://imslp.org/wiki/El_melopeo_y_maestro_(Cerone%2C_Pietro)).
 
 ## ¿Colaboras?
